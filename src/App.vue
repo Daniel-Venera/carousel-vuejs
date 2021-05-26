@@ -21,7 +21,7 @@
 	export default {
 		data(){
 			return {
-				slides: 1
+				slides: 4
 			}
 		},
 		components: {
